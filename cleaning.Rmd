@@ -19,10 +19,8 @@ library(tidyverse)
 voteview <- read_csv("viv_data/high_school.csv", skip = 1) %>%
   clean_names()
 
-# odd <- c(seq(1,50,2))
-# 
-# voteview <- voteview[,-c(odd)]
-
+voteview <- select(voteview, -starts_with("margin"), -1)
+voteview <- voteview[,-c(startsWith(voteview, prefix = "margin"))]
 voteview <- separate(voteview, geographic_area_name, c("County", "State"), ",")
 
 ```
