@@ -19,11 +19,10 @@ library(tidyverse)
 voteview <- read_csv("viv_data/high_school.csv", skip = 1) %>%
   clean_names()
 
-odd <- c(seq(1,50,2))
+# odd <- c(seq(1,50,2))
+# 
+# voteview <- voteview[,-c(odd)]
 
-voteview <- voteview[,-c(odd)]
-
-voteview <- str_remove_all(vote_view, "\\[.*\\]")
-  
+voteview <- separate(voteview, geographic_area_name, c("County", "State"), ",")
 
 ```
