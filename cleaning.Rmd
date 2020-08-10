@@ -1,0 +1,29 @@
+---
+title: "Data Cleaning"
+author: "Vivian Zhang"
+date: "8/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(janitor)
+library(broom)
+library(tidyverse)
+
+```
+
+```{r cars}
+
+voteview <- read_csv("viv_data/high_school.csv", skip = 1) %>%
+  clean_names()
+
+odd <- c(seq(1,50,2))
+
+voteview <- voteview[,-c(odd)]
+
+voteview <- str_remove_all(vote_view, "\\[.*\\]")
+  
+
+```
