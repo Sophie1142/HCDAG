@@ -45,3 +45,17 @@ write.csv(education,"income.csv")
 
 ```
 
+```{r racial and ethnic data}
+
+race_data <- read_csv("viv_data/race_3.csv", skip = 1) %>%
+  clean_names()
+
+race_data <- race_data %>%
+  separate(geographic_area_name, c("County", "State"), ",") %>%
+  select(2,3,estimate_race_total_population, starts_with("percent_estimate"), -1) %>%
+  select(-c(4:8))
+
+write.csv(race_data,"racedata.csv")
+
+```
+
