@@ -29,6 +29,19 @@ write.csv(education,"education_attainment.csv")
 
 # voteview <- select(voteview, -starts_with("margin"), -1)
 # voteview <- voteview[,-c(startsWith(voteview, prefix = "margin"))]
-# voteview <- separate(voteview, "Geographic Area Name", c("County", "State"), ",")
 
 ```
+
+```{r median household income}
+
+median_income <- read_csv("viv_data/median_income.csv", skip = 1) %>%
+  clean_names()
+
+median_income <- median_income %>%
+  separate(geographic_area_name, c("County", "State"), ",") %>%
+  select(c(2,3,41,42,43,44))
+
+write.csv(education,"income.csv")
+
+```
+
