@@ -10,17 +10,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 library(janitor)
 library(broom)
+library(readxl)
 library(tidyverse)
 
 ```
 
-```{r cars}
+```{r employment}
 
-voteview <- read_csv("viv_data/high_school.csv", skip = 1) %>%
+education <- read_excel("viv_data/Education.xls", skip = 4) %>%
   clean_names()
 
-voteview <- select(voteview, -starts_with("margin"), -1)
-voteview <- voteview[,-c(startsWith(voteview, prefix = "margin"))]
-voteview <- separate(voteview, geographic_area_name, c("County", "State"), ",")
+education <- education %>%
+  filter(area_name != "United States") %>%
+  select(c(2,3,44,45,46,47)) %>%
+  rename(county = area_name)
+
+write.csv(education,"education_attainment.csv")
+
+# voteview <- select(voteview, -starts_with("margin"), -1)
+# voteview <- voteview[,-c(startsWith(voteview, prefix = "margin"))]
+# voteview <- separate(voteview, "Geographic Area Name", c("County", "State"), ",")
 
 ```
