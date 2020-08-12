@@ -17,7 +17,7 @@ library(tidyverse)
 
 ```{r employment}
 
-education <- read_excel("viv_data/Education.xls", skip = 4) %>%
+education <- read_excel("viv_data/original_docs/Education.xls", skip = 4) %>%
   clean_names()
 
 education <- education %>%
@@ -34,7 +34,7 @@ write.csv(education,"education_attainment.csv")
 
 ```{r median household income}
 
-median_income <- read_csv("viv_data/median_income.csv", skip = 1) %>%
+median_income <- read_csv("viv_data/original_docs/median_income.csv", skip = 1) %>%
   clean_names()
 
 median_income <- median_income %>%
@@ -47,7 +47,7 @@ write.csv(education,"income.csv")
 
 ```{r racial and ethnic data}
 
-race_data <- read_csv("viv_data/race_3.csv", skip = 1) %>%
+race_data <- read_csv("viv_data/original_docs/race_3.csv", skip = 1) %>%
   clean_names()
 
 race_data <- race_data %>%
@@ -58,4 +58,23 @@ race_data <- race_data %>%
 write.csv(race_data,"racedata.csv")
 
 ```
+
+```{r internet access}
+
+internet <- read_excel("viv_data/original_docs/internet.xls", skip = 4)
+
+internet <- internet %>%
+  head(61) %>%
+  filter(`1` != "United States ...................................") %>%
+  na.omit() %>%
+  rename(county = `1`, number_of_households = `2`, 
+         number_of_households_with_computer = `3`, 
+         percent_households_with_computer = `4`,
+         number_households_with_internet = `5`,
+         percent_households_with_internet = `6`)
+
+write.csv(internet,"internet.csv")
+
+```
+
 
