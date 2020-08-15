@@ -77,6 +77,8 @@ All coronavirus datasets contain the following variables:
 * `County`: County name
 * `State`: State name
 * `Combined_Key`: County, State
+* `2019 Population Estimate (JH)`: Estimate of the county population in 2019 per the Census Bureau. EXCEPTION: New York, NY. JH is "not reporting cases for New York City at the county/borough level. Instead, they aggregate cases/population from all five boroughs of NYC as one entry.
+According to [US Censes Bureau](https://www.census.gov/quickfacts/fact/table/kingscountybrooklynboroughnewyork,newyorkcitynewyork/PST045219), NYC population (2019 est) is: Bronx (1,418,207) + Kings (2,559,903) + New York (1,628,706) + Queens (2,253,858) + Richmond (476,143) = NYC (8,336,817)." 
 
 In addition, biweekly **confirmed/deaths** CSV files report coronavirus statistics in absolute numbers and contain the following variables:
 * `2/5/20`: Total new COVID-19 **confirmed cases/deaths** in the 2 week period from 1/22/20 to 2/5/2020
@@ -90,6 +92,10 @@ Biweekly confirmed/deaths **rate** files report the correpsonding coronavirus st
 
 
 The **monthly** files are set up similarly but using 4-week time intervals.
+
+#### time_series_covid19_confirmed_US.xlsx & time_series_covid19_deaths_US.xlsx
+
+Excel workbook files containing original data downloaded from Johns Hopkins, as well as cleaned CSVs.
 
 ## Demographic and Economic Data
 

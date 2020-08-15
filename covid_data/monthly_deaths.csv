@@ -1,320 +1,320 @@
-UID,FIPS,County,State,Combined_Key,2019 Population Estimate,2/19/20,3/18/20,4/15/20,5/13/20,6/10/20,7/8/20,8/5/20,Sum,Check
-84001001,1001,Autauga,Alabama,"Autauga, Alabama",55869,0,0,1,3,2,6,8,20,0
-84001003,1003,Baldwin,Alabama,"Baldwin, Alabama",223234,0,0,2,5,2,0,14,23,0
-84001005,1005,Barbour,Alabama,"Barbour, Alabama",24686,0,0,0,1,0,1,3,5,0
-84001007,1007,Bibb,Alabama,"Bibb, Alabama",22394,0,0,0,1,0,0,2,3,0
-84001009,1009,Blount,Alabama,"Blount, Alabama",57826,0,0,0,0,1,0,2,3,0
-84001011,1011,Bullock,Alabama,"Bullock, Alabama",10101,0,0,0,1,7,2,1,11,0
-84001013,1013,Butler,Alabama,"Butler, Alabama",19448,0,0,0,6,18,4,7,35,0
-84001015,1015,Calhoun,Alabama,"Calhoun, Alabama",113605,0,0,0,3,0,2,7,12,0
-84001017,1017,Chambers,Alabama,"Chambers, Alabama",33254,0,0,10,12,4,1,11,38,0
-84001019,1019,Cherokee,Alabama,"Cherokee, Alabama",26196,0,0,0,0,4,3,0,7,0
-84001021,1021,Chilton,Alabama,"Chilton, Alabama",44428,0,0,0,1,1,0,4,6,0
-84001023,1023,Choctaw,Alabama,"Choctaw, Alabama",12589,0,0,0,2,9,1,0,12,0
-84001025,1025,Clarke,Alabama,"Clarke, Alabama",23622,0,0,0,1,2,3,3,9,0
-84001027,1027,Clay,Alabama,"Clay, Alabama",13235,0,0,0,1,1,0,3,5,0
-84001029,1029,Cleburne,Alabama,"Cleburne, Alabama",14910,0,0,0,1,0,0,0,1,0
-84001031,1031,Coffee,Alabama,"Coffee, Alabama",52342,0,0,0,1,0,2,2,5,0
-84001033,1033,Colbert,Alabama,"Colbert, Alabama",55241,0,0,1,1,3,1,6,12,0
-84001035,1035,Conecuh,Alabama,"Conecuh, Alabama",12067,0,0,0,0,1,6,3,10,0
-84001037,1037,Coosa,Alabama,"Coosa, Alabama",10663,0,0,1,0,0,0,1,2,0
-84001039,1039,Covington,Alabama,"Covington, Alabama",37049,0,0,0,1,0,9,10,20,0
-84001041,1041,Crenshaw,Alabama,"Crenshaw, Alabama",13772,0,0,0,1,2,0,0,3,0
-84001043,1043,Cullman,Alabama,"Cullman, Alabama",83768,0,0,1,-1,1,4,6,11,0
-84001045,1045,Dale,Alabama,"Dale, Alabama",49172,0,0,0,0,0,1,21,22,0
-84001047,1047,Dallas,Alabama,"Dallas, Alabama",37196,0,0,2,1,3,3,14,23,0
-84001049,1049,DeKalb,Alabama,"DeKalb, Alabama",71513,0,0,0,2,3,0,8,13,0
-84001051,1051,Elmore,Alabama,"Elmore, Alabama",81209,0,0,0,5,4,10,18,37,0
-84001053,1053,Escambia,Alabama,"Escambia, Alabama",36633,0,0,0,3,0,5,7,15,0
-84001055,1055,Etowah,Alabama,"Etowah, Alabama",102268,0,0,7,3,2,1,15,28,0
-84001057,1057,Fayette,Alabama,"Fayette, Alabama",16302,0,0,0,0,0,1,4,5,0
-84001059,1059,Franklin,Alabama,"Franklin, Alabama",31362,0,0,1,2,7,6,4,20,0
-84001061,1061,Geneva,Alabama,"Geneva, Alabama",26271,0,0,0,0,0,0,0,0,0
-84001063,1063,Greene,Alabama,"Greene, Alabama",8111,0,0,0,4,1,3,3,11,0
-84001065,1065,Hale,Alabama,"Hale, Alabama",14651,0,0,0,2,9,11,4,26,0
-84001067,1067,Henry,Alabama,"Henry, Alabama",17205,0,0,0,1,1,1,0,3,0
-84001069,1069,Houston,Alabama,"Houston, Alabama",105882,0,0,2,2,1,1,6,12,0
-84001071,1071,Jackson,Alabama,"Jackson, Alabama",51626,0,0,2,0,1,-1,2,4,0
-84001073,1073,Jefferson,Alabama,"Jefferson, Alabama",658573,0,0,17,47,48,49,67,228,0
-84001075,1075,Lamar,Alabama,"Lamar, Alabama",13805,0,0,0,0,0,1,1,2,0
-84001077,1077,Lauderdale,Alabama,"Lauderdale, Alabama",92729,0,0,4,-2,1,3,6,12,0
-84001079,1079,Lawrence,Alabama,"Lawrence, Alabama",32924,0,0,0,0,0,0,0,0,0
-84001081,1081,Lee,Alabama,"Lee, Alabama",164542,0,0,12,18,5,2,3,40,0
-84001083,1083,Limestone,Alabama,"Limestone, Alabama",98915,0,0,0,0,0,1,12,13,0
-84001085,1085,Lowndes,Alabama,"Lowndes, Alabama",9726,0,0,0,8,5,9,2,24,0
-84001087,1087,Macon,Alabama,"Macon, Alabama",18068,0,0,2,0,3,4,4,13,0
-84001089,1089,Madison,Alabama,"Madison, Alabama",372909,0,0,3,1,1,3,19,27,0
-84001091,1091,Marengo,Alabama,"Marengo, Alabama",18863,0,0,1,4,2,4,3,14,0
-84001093,1093,Marion,Alabama,"Marion, Alabama",29709,0,0,4,5,3,2,10,24,0
-84001095,1095,Marshall,Alabama,"Marshall, Alabama",96774,0,0,2,7,0,2,22,33,0
-84001097,1097,Mobile,Alabama,"Mobile, Alabama",413210,0,0,17,79,31,9,61,197,0
-84001099,1099,Monroe,Alabama,"Monroe, Alabama",20733,0,0,1,1,0,0,2,4,0
-84001101,1101,Montgomery,Alabama,"Montgomery, Alabama",226486,0,0,5,14,42,48,38,147,0
-84001103,1103,Morgan,Alabama,"Morgan, Alabama",119679,0,0,0,1,0,4,10,15,0
-84001105,1105,Perry,Alabama,"Perry, Alabama",8923,0,0,0,0,0,1,3,4,0
-84001107,1107,Pickens,Alabama,"Pickens, Alabama",19930,0,0,0,2,4,0,3,9,0
-84001109,1109,Pike,Alabama,"Pike, Alabama",33114,0,0,0,0,1,4,2,7,0
-84001111,1111,Randolph,Alabama,"Randolph, Alabama",22722,0,0,4,3,1,1,1,10,0
-84001113,1113,Russell,Alabama,"Russell, Alabama",57961,0,0,0,0,0,0,1,1,0
-84001115,1115,St. Clair,Alabama,"St. Clair, Alabama",89512,0,0,0,1,1,0,10,12,0
-84001117,1117,Shelby,Alabama,"Shelby, Alabama",217702,0,0,7,11,2,4,8,32,0
-84001119,1119,Sumter,Alabama,"Sumter, Alabama",12427,0,0,0,4,6,2,6,18,0
-84001121,1121,Talladega,Alabama,"Talladega, Alabama",79978,0,0,1,1,3,2,6,13,0
-84001123,1123,Tallapoosa,Alabama,"Tallapoosa, Alabama",40367,0,0,7,44,15,3,9,78,0
-84001125,1125,Tuscaloosa,Alabama,"Tuscaloosa, Alabama",209355,0,0,0,8,15,25,18,66,0
-84001127,1127,Walker,Alabama,"Walker, Alabama",63521,0,0,0,0,6,19,39,64,0
-84001129,1129,Washington,Alabama,"Washington, Alabama",16326,0,0,1,4,1,1,5,12,0
-84001131,1131,Wilcox,Alabama,"Wilcox, Alabama",10373,0,0,0,5,3,0,1,9,0
-84001133,1133,Winston,Alabama,"Winston, Alabama",23629,0,0,0,0,0,3,8,11,0
-84002013,2013,Aleutians East,Alaska,"Aleutians East, Alaska",3337,0,0,0,0,0,0,0,0,0
-84002016,2016,Aleutians West,Alaska,"Aleutians West, Alaska",5634,0,0,0,0,0,0,0,0,0
-84002020,2020,Anchorage,Alaska,"Anchorage,Alask",288000,0,0,4,0,1,2,6,13,0
-84002050,2050,Bethel,Alaska,"Bethel, Alaska",18386,0,0,0,0,0,0,0,0,0
-84002060,2060,Bristol Bay,Alaska,"Bristol Bay, Alaska",836,0,0,0,0,0,0,0,0,0
-84002068,2068,Denali,Alaska,"Denali, Alaska",2097,0,0,0,0,0,0,0,0,0
-84002070,2070,Dillingham,Alaska,"Dillingham, Alaska",4916,0,0,0,0,0,0,0,0,0
-84002090,2090,Fairbanks North Star,Alaska,"Fairbanks North Star,Alask",96849,0,0,1,1,0,0,3,5,0
-84002100,2100,Haines,Alaska,"Haines, Alaska",2530,0,0,0,0,0,0,0,0,0
-84002105,2105,Hoonah-Angoon,Alaska,"Hoonah-Angoon, Alaska",2148,0,0,0,0,0,0,0,0,0
-84002110,2110,Juneau,Alaska,"Juneau, Alaska",31974,0,0,0,0,0,2,-1,1,0
-84002122,2122,Kenai Peninsula,Alaska,"Kenai Peninsula,Alask",58708,0,0,0,2,0,0,0,2,0
-84002130,2130,Ketchikan Gateway,Alaska,"Ketchikan Gateway, Alaska",13901,0,0,0,0,0,0,0,0,0
-84002150,2150,Kodiak Island,Alaska,"Kodiak Island, Alaska",12998,0,0,0,0,0,0,0,0,0
-84002158,2158,Kusilvak,Alaska,"Kusilvak, Alaska",8314,0,0,0,0,0,0,0,0,0
-84002164,2164,Lake and Peninsula,Alaska,"Lake and Peninsula, Alaska",1592,0,0,0,0,0,0,0,0,0
-84002170,2170,Matanuska-Susitna,Alaska,"Matanuska-Susitna,Alask",108317,0,0,0,1,0,0,1,2,0
-84002180,2180,Nome,Alaska,"Nome, Alaska",10004,0,0,0,0,0,0,0,0,0
-84002185,2185,North Slope,Alaska,"North Slope, Alaska",9832,0,0,0,0,0,0,0,0,0
-84002188,2188,Northwest Arctic,Alaska,"Northwest Arctic, Alaska",7621,0,0,0,0,0,0,0,0,0
-84002195,2195,Petersburg,Alaska,"Petersburg, Alaska",3266,0,0,0,1,0,0,0,1,0
-84002198,2198,Prince of Wales-Hyder,Alaska,"Prince of Wales-Hyder, Alaska",6203,0,0,0,0,0,0,0,0,0
-84002220,2220,Sitka,Alaska,"Sitka, Alaska",8493,0,0,0,0,0,0,0,0,0
-84002230,2230,Skagway,Alaska,"Skagway, Alaska",1183,0,0,0,0,0,0,0,0,0
-84002240,2240,Southeast Fairbanks,Alaska,"Southeast Fairbanks, Alaska",6893,0,0,0,0,0,0,0,0,0
-84002261,2261,Valdez-Cordova,Alaska,"Valdez-Cordova, Alaska",9202,0,0,0,0,0,0,0,0,0
-84002275,2275,Wrangell,Alaska,"Wrangell, Alaska",2502,0,0,0,0,0,0,0,0,0
-84002282,2282,Yakutat,Alaska,"Yakutat, Alaska",579,0,0,0,0,0,0,0,0,0
-84002290,2290,Yukon-Koyukuk,Alaska,"Yukon-Koyukuk, Alaska",5230,0,0,0,0,0,0,1,1,0
-84004001,4001,Apache,Arizona,"Apache, Arizona",71887,0,0,4,8,37,51,36,136,0
-84004003,4003,Cochise,Arizona,"Cochise, Arizona",125922,0,0,0,1,3,16,30,50,0
-84004005,4005,Coconino,Arizona,"Coconino, Arizona",143476,0,0,24,34,27,12,20,117,0
-84004007,4007,Gila,Arizona,"Gila, Arizona",54018,0,0,0,1,2,6,20,29,0
-84004009,4009,Graham,Arizona,"Graham, Arizona",38837,0,0,0,0,1,0,10,11,0
-84004011,4011,Greenlee,Arizona,"Greenlee, Arizona",9498,0,0,0,0,1,0,0,1,0
-84004012,4012,La Paz,Arizona,"La Paz, Arizona",21108,0,0,0,1,0,6,3,10,0
-84004013,4013,Maricopa,Arizona,"Maricopa, Arizona",4485414,0,0,60,221,238,440,1194,2153,0
-84004015,4015,Mohave,Arizona,"Mohave, Arizona",212181,0,0,0,26,33,35,63,157,0
-84004017,4017,Navajo,Arizona,"Navajo, Arizona",110924,0,0,10,32,33,60,57,192,0
-84004019,4019,Pima,Arizona,"Pima, Arizona",1047279,0,0,29,115,72,86,163,465,0
-84004021,4021,Pinal,Arizona,"Pinal, Arizona",462789,0,0,0,20,22,39,61,142,0
-84004023,4023,Santa Cruz,Arizona,"Santa Cruz, Arizona",46498,0,0,0,0,4,23,23,50,0
-84004025,4025,Yavapai,Arizona,"Yavapai, Arizona",235099,0,0,1,3,2,5,53,64,0
-84004027,4027,Yuma,Arizona,"Yuma, Arizona",213787,0,0,0,4,30,84,149,267,0
-84005001,5001,Arkansas,Arkansas,"Arkansas, Arkansas",17486,0,0,0,0,0,0,1,1,0
-84005003,5003,Ashley,Arkansas,"Ashley, Arkansas",19657,0,0,0,0,0,2,2,4,0
-84005005,5005,Baxter,Arkansas,"Baxter, Arkansas",41932,0,0,0,0,0,0,0,0,0
-84005007,5007,Benton,Arkansas,"Benton, Arkansas",279141,0,0,0,0,5,16,19,40,0
-84005009,5009,Boone,Arkansas,"Boone, Arkansas",37432,0,0,0,0,0,1,0,1,0
-84005011,5011,Bradley,Arkansas,"Bradley, Arkansas",10763,0,0,0,1,0,1,1,3,0
-84005013,5013,Calhoun,Arkansas,"Calhoun, Arkansas",5189,0,0,0,0,0,0,0,0,0
-84005015,5015,Carroll,Arkansas,"Carroll, Arkansas",28380,0,0,0,0,1,4,2,7,0
-84005017,5017,Chicot,Arkansas,"Chicot, Arkansas",10118,0,0,0,0,0,3,4,7,0
-84005019,5019,Clark,Arkansas,"Clark, Arkansas",22320,0,0,0,0,0,0,1,1,0
-84005021,5021,Clay,Arkansas,"Clay, Arkansas",14551,0,0,0,0,0,3,1,4,0
-84005023,5023,Cleburne,Arkansas,"Cleburne, Arkansas",24919,0,0,4,0,0,0,1,5,0
-84005025,5025,Cleveland,Arkansas,"Cleveland, Arkansas",7956,0,0,0,0,0,0,2,2,0
-84005027,5027,Columbia,Arkansas,"Columbia, Arkansas",23457,0,0,0,2,0,2,3,7,0
-84005029,5029,Conway,Arkansas,"Conway, Arkansas",20846,0,0,1,0,0,2,0,3,0
-84005031,5031,Craighead,Arkansas,"Craighead, Arkansas",110332,0,0,0,0,1,6,5,12,0
-84005033,5033,Crawford,Arkansas,"Crawford, Arkansas",63257,0,0,0,0,0,1,2,3,0
-84005035,5035,Crittenden,Arkansas,"Crittenden, Arkansas",47955,0,0,2,5,2,4,7,20,0
-84005037,5037,Cross,Arkansas,"Cross, Arkansas",16419,0,0,0,0,0,1,1,2,0
-84005039,5039,Dallas,Arkansas,"Dallas, Arkansas",7009,0,0,0,0,0,0,0,0,0
-84005041,5041,Desha,Arkansas,"Desha, Arkansas",11361,0,0,0,0,0,1,1,2,0
-84005043,5043,Drew,Arkansas,"Drew, Arkansas",18219,0,0,1,0,0,1,1,3,0
-84005045,5045,Faulkner,Arkansas,"Faulkner, Arkansas",126007,0,0,2,1,0,0,2,5,0
-84005047,5047,Franklin,Arkansas,"Franklin, Arkansas",17715,0,0,0,0,0,1,1,2,0
-84005049,5049,Fulton,Arkansas,"Fulton, Arkansas",12477,0,0,0,0,0,0,0,0,0
-84005051,5051,Garland,Arkansas,"Garland, Arkansas",99386,0,0,0,1,0,1,6,8,0
-84005053,5053,Grant,Arkansas,"Grant, Arkansas",18265,0,0,0,0,0,0,0,0,0
-84005055,5055,Greene,Arkansas,"Greene, Arkansas",45325,0,0,0,0,0,0,1,1,0
-84005057,5057,Hempstead,Arkansas,"Hempstead, Arkansas",21532,0,0,1,0,0,0,1,2,0
-84005059,5059,Hot Spring,Arkansas,"Hot Spring, Arkansas",33771,0,0,0,0,0,1,9,10,0
-84005061,5061,Howard,Arkansas,"Howard, Arkansas",13202,0,0,0,0,0,1,1,2,0
-84005063,5063,Independence,Arkansas,"Independence, Arkansas",37825,0,0,0,0,0,0,1,1,0
-84005065,5065,Izard,Arkansas,"Izard, Arkansas",13629,0,0,0,0,1,0,0,1,0
-84005067,5067,Jackson,Arkansas,"Jackson, Arkansas",16719,0,0,0,0,0,0,1,1,0
-84005069,5069,Jefferson,Arkansas,"Jefferson, Arkansas",66824,0,0,6,13,9,0,11,39,0
-84005071,5071,Johnson,Arkansas,"Johnson, Arkansas",26578,0,0,0,0,0,0,0,0,0
-84005073,5073,Lafayette,Arkansas,"Lafayette, Arkansas",6624,0,0,0,1,0,1,0,2,0
-84005075,5075,Lawrence,Arkansas,"Lawrence, Arkansas",16406,0,0,1,3,5,0,1,10,0
-84005077,5077,Lee,Arkansas,"Lee, Arkansas",8857,0,0,1,0,0,2,4,7,0
-84005079,5079,Lincoln,Arkansas,"Lincoln, Arkansas",13024,0,0,0,7,4,0,0,11,0
-84005081,5081,Little River,Arkansas,"Little River, Arkansas",12259,0,0,0,0,0,0,1,1,0
-84005083,5083,Logan,Arkansas,"Logan, Arkansas",21466,0,0,0,0,0,0,1,1,0
-84005085,5085,Lonoke,Arkansas,"Lonoke, Arkansas",73309,0,0,0,0,0,1,1,2,0
-84005087,5087,Madison,Arkansas,"Madison, Arkansas",16576,0,0,0,0,0,0,1,1,0
-84005089,5089,Marion,Arkansas,"Marion, Arkansas",16694,0,0,0,0,0,0,0,0,0
-84005091,5091,Miller,Arkansas,"Miller, Arkansas",43257,0,0,0,1,0,1,2,4,0
-84005093,5093,Mississippi,Arkansas,"Mississippi, Arkansas",40651,0,0,0,0,2,1,8,11,0
-84005095,5095,Monroe,Arkansas,"Monroe, Arkansas",6701,0,0,0,0,0,0,0,0,0
-84005097,5097,Montgomery,Arkansas,"Montgomery, Arkansas",8986,0,0,0,0,0,0,0,0,0
-84005099,5099,Nevada,Arkansas,"Nevada, Arkansas",8252,0,0,0,0,0,3,6,9,0
-84005101,5101,Newton,Arkansas,"Newton, Arkansas",7753,0,0,0,0,0,0,3,3,0
-84005103,5103,Ouachita,Arkansas,"Ouachita, Arkansas",23382,0,0,0,0,0,0,2,2,0
-84005105,5105,Perry,Arkansas,"Perry, Arkansas",10455,0,0,0,0,0,0,0,0,0
-84005107,5107,Phillips,Arkansas,"Phillips, Arkansas",17782,0,0,1,0,0,4,2,7,0
-84005109,5109,Pike,Arkansas,"Pike, Arkansas",10718,0,0,0,0,0,0,1,1,0
-84005111,5111,Poinsett,Arkansas,"Poinsett, Arkansas",23528,0,0,0,2,0,1,0,3,0
-84005113,5113,Polk,Arkansas,"Polk, Arkansas",19964,0,0,0,0,0,0,1,1,0
-84005115,5115,Pope,Arkansas,"Pope, Arkansas",64072,0,0,0,0,2,2,6,10,0
-84005117,5117,Prairie,Arkansas,"Prairie, Arkansas",8062,0,0,0,0,0,0,0,0,0
-84005119,5119,Pulaski,Arkansas,"Pulaski, Arkansas",391911,0,0,10,13,18,21,17,79,0
-84005121,5121,Randolph,Arkansas,"Randolph, Arkansas",17958,0,0,0,0,0,1,2,3,0
-84005123,5123,St. Francis,Arkansas,"St. Francis, Arkansas",24994,0,0,0,0,1,2,0,3,0
-84005125,5125,Saline,Arkansas,"Saline, Arkansas",122437,0,0,1,0,1,1,3,6,0
-84005127,5127,Scott,Arkansas,"Scott, Arkansas",10281,0,0,0,0,0,0,0,0,0
-84005129,5129,Searcy,Arkansas,"Searcy, Arkansas",7881,0,0,0,0,0,0,0,0,0
-84005131,5131,Sebastian,Arkansas,"Sebastian, Arkansas",127827,0,0,0,0,2,5,8,15,0
-84005133,5133,Sevier,Arkansas,"Sevier, Arkansas",17007,0,0,0,1,1,7,1,10,0
-84005135,5135,Sharp,Arkansas,"Sharp, Arkansas",17442,0,0,0,2,1,2,0,5,0
-84005137,5137,Stone,Arkansas,"Stone, Arkansas",12506,0,0,0,0,0,1,0,1,0
-84005139,5139,Union,Arkansas,"Union, Arkansas",38682,0,0,0,4,7,2,4,17,0
-84005141,5141,Van Buren,Arkansas,"Van Buren, Arkansas",16545,0,0,2,0,0,0,0,2,0
-84005143,5143,Washington,Arkansas,"Washington, Arkansas",239187,0,0,0,5,4,26,13,48,0
-84005145,5145,White,Arkansas,"White, Arkansas",78753,0,0,0,1,0,1,0,2,0
-84005147,5147,Woodruff,Arkansas,"Woodruff, Arkansas",6320,0,0,0,0,0,0,0,0,0
-84005149,5149,Yell,Arkansas,"Yell, Arkansas",21341,0,0,0,1,1,3,9,14,0
-84006001,6001,Alameda,California,"Alameda, California",1671329,0,0,36,40,29,37,50,192,0
-84006003,6003,Alpine,California,"Alpine, California",1129,0,0,0,0,0,0,0,0,0
-84006005,6005,Amador,California,"Amador, California",39752,0,0,0,0,0,0,0,0,0
-84006007,6007,Butte,California,"Butte, California",219186,0,0,0,0,1,3,4,8,0
-84006009,6009,Calaveras,California,"Calaveras, California",45905,0,0,0,0,0,0,1,1,0
-84006011,6011,Colusa,California,"Colusa, California",21547,0,0,0,0,0,0,4,4,0
-84006013,6013,Contra Costa,California,"Contra Costa, California",1153526,0,0,14,19,10,43,45,131,0
-84006015,6015,Del Norte,California,"Del Norte, California",27812,0,0,0,0,0,0,0,0,0
-84006017,6017,El Dorado,California,"El Dorado, California",192843,0,0,0,0,0,0,1,1,0
-84006019,6019,Fresno,California,"Fresno, California",999101,0,0,7,3,39,35,54,138,0
-84006021,6021,Glenn,California,"Glenn, California",28393,0,0,0,0,0,0,1,1,0
-84006023,6023,Humboldt,California,"Humboldt, California",135558,0,0,0,0,4,0,0,4,0
-84006025,6025,Imperial,California,"Imperial, California",181215,0,0,3,11,27,84,107,232,0
-84006027,6027,Inyo,California,"Inyo, California",18039,0,0,0,1,0,0,0,1,0
-84006029,6029,Kern,California,"Kern, California",900202,0,0,3,14,34,36,64,151,0
-84006031,6031,Kings,California,"Kings, California",152940,0,0,1,0,5,32,18,56,0
-84006033,6033,Lake,California,"Lake, California",64386,0,0,0,0,0,1,0,1,0
-84006035,6035,Lassen,California,"Lassen, California",30573,0,0,0,0,0,0,0,0,0
-84006037,6037,Los Angeles,California,"Los Angeles, California",10039107,0,1,404,1255,1108,875,1117,4760,0
-84006039,6039,Madera,California,"Madera, California",157327,0,0,2,0,1,5,24,32,0
-84006041,6041,Marin,California,"Marin, California",258826,0,0,10,4,3,9,50,76,0
-84006043,6043,Mariposa,California,"Mariposa, California",17203,0,0,0,0,1,0,1,2,0
-84006045,6045,Mendocino,California,"Mendocino, California",86749,0,0,0,0,0,0,9,9,0
-84006047,6047,Merced,California,"Merced, California",277680,0,0,3,1,3,4,40,51,0
-84006049,6049,Modoc,California,"Modoc, California",8841,0,0,0,0,0,0,0,0,0
-84006051,6051,Mono,California,"Mono, California",14444,0,0,1,0,0,0,0,1,0
-84006053,6053,Monterey,California,"Monterey, California",434061,0,0,3,3,5,6,17,34,0
-84006055,6055,Napa,California,"Napa, California",137744,0,0,2,1,0,1,5,9,0
-84006057,6057,Nevada,California,"Nevada, California",99755,0,0,1,0,0,0,0,1,0
-84006059,6059,Orange,California,"Orange, California",3175692,0,0,22,58,118,178,277,653,0
-84006061,6061,Placer,California,"Placer, California",398329,0,1,6,1,1,2,7,18,0
-84006063,6063,Plumas,California,"Plumas, California",18807,0,0,0,0,0,0,0,0,0
-84006065,6065,Riverside,California,"Riverside, California",2470546,0,3,47,175,147,143,223,738,0
-84006067,6067,Sacramento,California,"Sacramento, California",1552058,0,2,30,19,11,16,70,148,0
-84006069,6069,San Benito,California,"San Benito, California",62808,0,0,2,0,0,0,2,4,0
-84006071,6071,San Bernardino,California,"San Bernardino, California",2180085,0,0,31,107,87,68,184,477,0
-84006073,6073,San Diego,California,"San Diego, California",3338330,0,0,53,137,115,101,162,568,0
-84006075,6075,San Francisco,California,"San Francisco, California",881549,0,0,17,18,9,6,11,61,0
-84006077,6077,San Joaquin,California,"San Joaquin, California",762148,0,2,15,14,9,21,119,180,0
-84006079,6079,San Luis Obispo,California,"San Luis Obispo, California",283111,0,0,1,0,0,2,13,16,0
-84006081,6081,San Mateo,California,"San Mateo, California",766573,0,1,20,44,28,18,9,120,0
-84006083,6083,Santa Barbara,California,"Santa Barbara, California",446499,0,0,2,9,5,14,33,63,0
-84006085,6085,Santa Clara,California,"Santa Clara, California",1927852,0,6,59,65,16,19,27,192,0
-84006087,6087,Santa Cruz,California,"Santa Cruz, California",273213,0,0,2,0,0,1,1,4,0
-84006089,6089,Shasta,California,"Shasta, California",180080,0,0,3,1,0,1,4,9,0
-84006091,6091,Sierra,California,"Sierra, California",3005,0,0,0,0,0,0,0,0,0
-84006093,6093,Siskiyou,California,"Siskiyou, California",43539,0,0,0,0,0,0,0,0,0
-84006095,6095,Solano,California,"Solano, California",447643,0,0,2,9,12,4,11,38,0
-84006097,6097,Sonoma,California,"Sonoma, California",494336,0,0,2,2,0,10,25,39,0
-84006099,6099,Stanislaus,California,"Stanislaus, California",550660,0,0,4,18,11,17,85,135,0
-84006101,6101,Sutter,California,"Sutter, California",96971,0,0,2,0,0,2,2,6,0
-84006103,6103,Tehama,California,"Tehama, California",65084,0,0,1,0,0,0,0,1,0
-84006105,6105,Trinity,California,"Trinity, California",12285,0,0,0,0,0,0,0,0,0
-84006107,6107,Tulare,California,"Tulare, California",466195,0,0,15,39,42,52,45,193,0
-84006109,6109,Tuolumne,California,"Tuolumne, California",54478,0,0,0,0,0,0,2,2,0
-84006111,6111,Ventura,California,"Ventura, California",846006,0,0,13,11,14,12,27,77,0
-84006113,6113,Yolo,California,"Yolo, California",220500,0,0,4,18,2,4,14,42,0
-84006115,6115,Yuba,California,"Yuba, California",78668,0,0,1,0,0,2,1,4,0
-84008001,8001,Adams,Colorado,"Adams, Colorado",517421,0,0,28,58,57,13,17,173,0
-84008003,8003,Alamosa,Colorado,"Alamosa, Colorado",16233,0,0,2,0,0,4,3,9,0
-84008005,8005,Arapahoe,Colorado,"Arapahoe, Colorado",656590,0,0,52,148,131,16,17,364,0
-84008007,8007,Archuleta,Colorado,"Archuleta, Colorado",14029,0,0,0,0,0,0,0,0,0
-84008009,8009,Baca,Colorado,"Baca, Colorado",3581,0,0,0,0,0,0,0,0,0
-84008011,8011,Bent,Colorado,"Bent, Colorado",5577,0,0,0,0,0,0,0,0,0
-84008013,8013,Boulder,Colorado,"Boulder, Colorado",326196,0,0,15,42,10,5,3,75,0
-84008014,8014,Broomfield,Colorado,"Broomfield, Colorado",70465,0,0,2,18,8,2,2,32,0
-84008015,8015,Chaffee,Colorado,"Chaffee, Colorado",20356,0,0,4,12,4,-1,0,19,0
-84008017,8017,Cheyenne,Colorado,"Cheyenne, Colorado",1831,0,0,0,0,0,0,0,0,0
-84008019,8019,Clear Creek,Colorado,"Clear Creek, Colorado",9700,0,0,0,1,0,0,0,1,0
-84008021,8021,Conejos,Colorado,"Conejos, Colorado",8205,0,0,0,0,0,0,0,0,0
-84008023,8023,Costilla,Colorado,"Costilla, Colorado",3887,0,0,0,0,0,0,0,0,0
-84008025,8025,Crowley,Colorado,"Crowley, Colorado",6061,0,0,1,0,0,0,0,1,0
-84008027,8027,Custer,Colorado,"Custer, Colorado",5068,0,0,0,0,0,0,0,0,0
-84008029,8029,Delta,Colorado,"Delta, Colorado",31162,0,0,1,0,0,0,0,1,0
-84008031,8031,Denver,Colorado,"Denver, Colorado",727211,0,0,61,172,124,30,25,412,0
-84008033,8033,Dolores,Colorado,"Dolores, Colorado",2055,0,0,0,0,0,0,0,0,0
-84008035,8035,Douglas,Colorado,"Douglas, Colorado",351154,0,0,15,15,17,5,7,59,0
-84008037,8037,Eagle,Colorado,"Eagle, Colorado",55127,0,0,6,2,0,0,1,9,0
-84008039,8039,Elbert,Colorado,"Elbert, Colorado",26729,0,0,1,1,0,0,0,2,0
-84008041,8041,El Paso,Colorado,"El Paso, Colorado",720403,0,2,41,38,19,9,28,137,0
-84008043,8043,Fremont,Colorado,"Fremont, Colorado",47839,0,0,0,0,0,0,0,0,0
-84008045,8045,Garfield,Colorado,"Garfield, Colorado",60061,0,0,2,0,0,1,1,4,0
-84008047,8047,Gilpin,Colorado,"Gilpin, Colorado",6243,0,0,0,0,0,0,0,0,0
-84008049,8049,Grand,Colorado,"Grand, Colorado",15734,0,0,0,0,0,1,0,1,0
-84008051,8051,Gunnison,Colorado,"Gunnison, Colorado",17462,0,0,3,3,0,0,0,6,0
-84008053,8053,Hinsdale,Colorado,"Hinsdale, Colorado",820,0,0,0,0,0,0,0,0,0
-84008055,8055,Huerfano,Colorado,"Huerfano, Colorado",6897,0,0,0,0,0,1,0,1,0
-84008057,8057,Jackson,Colorado,"Jackson, Colorado",1392,0,0,0,0,0,0,0,0,0
-84008059,8059,Jefferson,Colorado,"Jefferson, Colorado",582881,0,0,32,73,84,25,13,227,0
-84008061,8061,Kiowa,Colorado,"Kiowa, Colorado",1406,0,0,0,0,0,0,0,0,0
-84008063,8063,Kit Carson,Colorado,"Kit Carson, Colorado",7097,0,0,1,1,1,0,0,3,0
-84008065,8065,Lake,Colorado,"Lake, Colorado",8127,0,0,0,0,0,0,0,0,0
-84008067,8067,La Plata,Colorado,"La Plata, Colorado",56221,0,0,0,1,0,0,1,2,0
-84008069,8069,Larimer,Colorado,"Larimer, Colorado",356899,0,0,9,10,9,2,5,35,0
-84008071,8071,Las Animas,Colorado,"Las Animas, Colorado",14506,0,0,0,0,0,0,0,0,0
-84008073,8073,Lincoln,Colorado,"Lincoln, Colorado",5701,0,0,0,0,0,0,0,0,0
-84008075,8075,Logan,Colorado,"Logan, Colorado",22409,0,0,0,3,2,0,0,5,0
-84008077,8077,Mesa,Colorado,"Mesa, Colorado",154210,0,0,0,0,0,0,3,3,0
-84008079,8079,Mineral,Colorado,"Mineral, Colorado",769,0,0,0,0,0,0,0,0,0
-84008081,8081,Moffat,Colorado,"Moffat, Colorado",13283,0,0,0,0,0,0,1,1,0
-84008083,8083,Montezuma,Colorado,"Montezuma, Colorado",26183,0,0,2,1,0,0,1,4,0
-84008085,8085,Montrose,Colorado,"Montrose, Colorado",42758,0,0,6,5,1,0,1,13,0
-84008087,8087,Morgan,Colorado,"Morgan, Colorado",29068,0,0,0,24,21,1,0,46,0
-84008089,8089,Otero,Colorado,"Otero, Colorado",18278,0,0,0,1,0,0,5,6,0
-84008091,8091,Ouray,Colorado,"Ouray, Colorado",4952,0,0,1,0,0,0,0,1,0
-84008093,8093,Park,Colorado,"Park, Colorado",18845,0,0,0,0,0,0,1,1,0
-84008095,8095,Phillips,Colorado,"Phillips, Colorado",4265,0,0,0,0,0,0,0,0,0
-84008097,8097,Pitkin,Colorado,"Pitkin, Colorado",17767,0,0,2,0,0,0,0,2,0
-84008099,8099,Prowers,Colorado,"Prowers, Colorado",12172,0,0,0,0,0,0,0,0,0
-84008101,8101,Pueblo,Colorado,"Pueblo, Colorado",168424,0,0,4,8,7,11,4,34,0
-84008103,8103,Rio Blanco,Colorado,"Rio Blanco, Colorado",6324,0,0,0,0,0,0,0,0,0
-84008105,8105,Rio Grande,Colorado,"Rio Grande, Colorado",11267,0,0,0,0,0,2,0,2,0
-84008107,8107,Routt,Colorado,"Routt, Colorado",25638,0,0,0,6,0,0,0,6,0
-84008109,8109,Saguache,Colorado,"Saguache, Colorado",6824,0,0,0,0,2,0,0,2,0
-84008111,8111,San Juan,Colorado,"San Juan, Colorado",728,0,0,0,0,0,0,0,0,0
-84008113,8113,San Miguel,Colorado,"San Miguel, Colorado",8179,0,0,0,0,0,0,0,0,0
-84008115,8115,Sedgwick,Colorado,"Sedgwick, Colorado",2248,0,0,0,0,0,0,1,1,0
-84008117,8117,Summit,Colorado,"Summit, Colorado",31011,0,0,1,0,1,2,0,4,0
-84008119,8119,Teller,Colorado,"Teller, Colorado",25388,0,0,2,0,0,0,1,3,0
-84008121,8121,Washington,Colorado,"Washington, Colorado",4908,0,0,0,0,0,0,0,0,0
-84008123,8123,Weld,Colorado,"Weld, Colorado",324492,0,1,56,62,16,3,4,142,0
-84008125,8125,Yuma,Colorado,"Yuma, Colorado",10019,0,0,0,0,0,0,0,0,0
-84009001,9001,Fairfield,Connecticut,"Fairfield, Connecticut",943332,0,1,364,703,253,57,30,1408,0
-84009003,9003,Hartford,Connecticut,"Hartford, Connecticut",891720,0,0,213,750,340,79,30,1412,0
-84009005,9005,Litchfield,Connecticut,"Litchfield, Connecticut",180333,0,0,35,75,24,3,1,138,0
-84009007,9007,Middlesex,Connecticut,"Middlesex, Connecticut",162436,0,0,28,88,48,23,4,191,0
-84009009,9009,New Haven,Connecticut,"New Haven, Connecticut",854757,0,0,195,550,279,55,25,1104,0
-84009011,9011,New London,Connecticut,"New London, Connecticut",265206,0,0,7,53,37,5,1,103,0
-84009013,9013,Tolland,Connecticut,"Tolland, Connecticut",150721,0,0,22,27,12,3,2,66,0
-84009015,9015,Windham,Connecticut,"Windham, Connecticut",116782,0,0,1,8,5,0,1,15,0
+UID,FIPS,County,State,Combined_Key,2019 Population Estimate (JH),2/19/20,3/18/20,4/15/20,5/13/20,6/10/20,7/8/20,8/5/20,Sum,Check
+84001001,01001,Autauga,Alabama,"Autauga, Alabama",55869,0,0,1,3,2,6,8,20,0
+84001003,01003,Baldwin,Alabama,"Baldwin, Alabama",223234,0,0,2,5,2,0,14,23,0
+84001005,01005,Barbour,Alabama,"Barbour, Alabama",24686,0,0,0,1,0,1,3,5,0
+84001007,01007,Bibb,Alabama,"Bibb, Alabama",22394,0,0,0,1,0,0,2,3,0
+84001009,01009,Blount,Alabama,"Blount, Alabama",57826,0,0,0,0,1,0,2,3,0
+84001011,01011,Bullock,Alabama,"Bullock, Alabama",10101,0,0,0,1,7,2,1,11,0
+84001013,01013,Butler,Alabama,"Butler, Alabama",19448,0,0,0,6,18,4,7,35,0
+84001015,01015,Calhoun,Alabama,"Calhoun, Alabama",113605,0,0,0,3,0,2,7,12,0
+84001017,01017,Chambers,Alabama,"Chambers, Alabama",33254,0,0,10,12,4,1,11,38,0
+84001019,01019,Cherokee,Alabama,"Cherokee, Alabama",26196,0,0,0,0,4,3,0,7,0
+84001021,01021,Chilton,Alabama,"Chilton, Alabama",44428,0,0,0,1,1,0,4,6,0
+84001023,01023,Choctaw,Alabama,"Choctaw, Alabama",12589,0,0,0,2,9,1,0,12,0
+84001025,01025,Clarke,Alabama,"Clarke, Alabama",23622,0,0,0,1,2,3,3,9,0
+84001027,01027,Clay,Alabama,"Clay, Alabama",13235,0,0,0,1,1,0,3,5,0
+84001029,01029,Cleburne,Alabama,"Cleburne, Alabama",14910,0,0,0,1,0,0,0,1,0
+84001031,01031,Coffee,Alabama,"Coffee, Alabama",52342,0,0,0,1,0,2,2,5,0
+84001033,01033,Colbert,Alabama,"Colbert, Alabama",55241,0,0,1,1,3,1,6,12,0
+84001035,01035,Conecuh,Alabama,"Conecuh, Alabama",12067,0,0,0,0,1,6,3,10,0
+84001037,01037,Coosa,Alabama,"Coosa, Alabama",10663,0,0,1,0,0,0,1,2,0
+84001039,01039,Covington,Alabama,"Covington, Alabama",37049,0,0,0,1,0,9,10,20,0
+84001041,01041,Crenshaw,Alabama,"Crenshaw, Alabama",13772,0,0,0,1,2,0,0,3,0
+84001043,01043,Cullman,Alabama,"Cullman, Alabama",83768,0,0,1,-1,1,4,6,11,0
+84001045,01045,Dale,Alabama,"Dale, Alabama",49172,0,0,0,0,0,1,21,22,0
+84001047,01047,Dallas,Alabama,"Dallas, Alabama",37196,0,0,2,1,3,3,14,23,0
+84001049,01049,DeKalb,Alabama,"DeKalb, Alabama",71513,0,0,0,2,3,0,8,13,0
+84001051,01051,Elmore,Alabama,"Elmore, Alabama",81209,0,0,0,5,4,10,18,37,0
+84001053,01053,Escambia,Alabama,"Escambia, Alabama",36633,0,0,0,3,0,5,7,15,0
+84001055,01055,Etowah,Alabama,"Etowah, Alabama",102268,0,0,7,3,2,1,15,28,0
+84001057,01057,Fayette,Alabama,"Fayette, Alabama",16302,0,0,0,0,0,1,4,5,0
+84001059,01059,Franklin,Alabama,"Franklin, Alabama",31362,0,0,1,2,7,6,4,20,0
+84001061,01061,Geneva,Alabama,"Geneva, Alabama",26271,0,0,0,0,0,0,0,0,0
+84001063,01063,Greene,Alabama,"Greene, Alabama",8111,0,0,0,4,1,3,3,11,0
+84001065,01065,Hale,Alabama,"Hale, Alabama",14651,0,0,0,2,9,11,4,26,0
+84001067,01067,Henry,Alabama,"Henry, Alabama",17205,0,0,0,1,1,1,0,3,0
+84001069,01069,Houston,Alabama,"Houston, Alabama",105882,0,0,2,2,1,1,6,12,0
+84001071,01071,Jackson,Alabama,"Jackson, Alabama",51626,0,0,2,0,1,-1,2,4,0
+84001073,01073,Jefferson,Alabama,"Jefferson, Alabama",658573,0,0,17,47,48,49,67,228,0
+84001075,01075,Lamar,Alabama,"Lamar, Alabama",13805,0,0,0,0,0,1,1,2,0
+84001077,01077,Lauderdale,Alabama,"Lauderdale, Alabama",92729,0,0,4,-2,1,3,6,12,0
+84001079,01079,Lawrence,Alabama,"Lawrence, Alabama",32924,0,0,0,0,0,0,0,0,0
+84001081,01081,Lee,Alabama,"Lee, Alabama",164542,0,0,12,18,5,2,3,40,0
+84001083,01083,Limestone,Alabama,"Limestone, Alabama",98915,0,0,0,0,0,1,12,13,0
+84001085,01085,Lowndes,Alabama,"Lowndes, Alabama",9726,0,0,0,8,5,9,2,24,0
+84001087,01087,Macon,Alabama,"Macon, Alabama",18068,0,0,2,0,3,4,4,13,0
+84001089,01089,Madison,Alabama,"Madison, Alabama",372909,0,0,3,1,1,3,19,27,0
+84001091,01091,Marengo,Alabama,"Marengo, Alabama",18863,0,0,1,4,2,4,3,14,0
+84001093,01093,Marion,Alabama,"Marion, Alabama",29709,0,0,4,5,3,2,10,24,0
+84001095,01095,Marshall,Alabama,"Marshall, Alabama",96774,0,0,2,7,0,2,22,33,0
+84001097,01097,Mobile,Alabama,"Mobile, Alabama",413210,0,0,17,79,31,9,61,197,0
+84001099,01099,Monroe,Alabama,"Monroe, Alabama",20733,0,0,1,1,0,0,2,4,0
+84001101,01101,Montgomery,Alabama,"Montgomery, Alabama",226486,0,0,5,14,42,48,38,147,0
+84001103,01103,Morgan,Alabama,"Morgan, Alabama",119679,0,0,0,1,0,4,10,15,0
+84001105,01105,Perry,Alabama,"Perry, Alabama",8923,0,0,0,0,0,1,3,4,0
+84001107,01107,Pickens,Alabama,"Pickens, Alabama",19930,0,0,0,2,4,0,3,9,0
+84001109,01109,Pike,Alabama,"Pike, Alabama",33114,0,0,0,0,1,4,2,7,0
+84001111,01111,Randolph,Alabama,"Randolph, Alabama",22722,0,0,4,3,1,1,1,10,0
+84001113,01113,Russell,Alabama,"Russell, Alabama",57961,0,0,0,0,0,0,1,1,0
+84001115,01115,St. Clair,Alabama,"St. Clair, Alabama",89512,0,0,0,1,1,0,10,12,0
+84001117,01117,Shelby,Alabama,"Shelby, Alabama",217702,0,0,7,11,2,4,8,32,0
+84001119,01119,Sumter,Alabama,"Sumter, Alabama",12427,0,0,0,4,6,2,6,18,0
+84001121,01121,Talladega,Alabama,"Talladega, Alabama",79978,0,0,1,1,3,2,6,13,0
+84001123,01123,Tallapoosa,Alabama,"Tallapoosa, Alabama",40367,0,0,7,44,15,3,9,78,0
+84001125,01125,Tuscaloosa,Alabama,"Tuscaloosa, Alabama",209355,0,0,0,8,15,25,18,66,0
+84001127,01127,Walker,Alabama,"Walker, Alabama",63521,0,0,0,0,6,19,39,64,0
+84001129,01129,Washington,Alabama,"Washington, Alabama",16326,0,0,1,4,1,1,5,12,0
+84001131,01131,Wilcox,Alabama,"Wilcox, Alabama",10373,0,0,0,5,3,0,1,9,0
+84001133,01133,Winston,Alabama,"Winston, Alabama",23629,0,0,0,0,0,3,8,11,0
+84002013,02013,Aleutians East,Alaska,"Aleutians East, Alaska",3337,0,0,0,0,0,0,0,0,0
+84002016,02016,Aleutians West,Alaska,"Aleutians West, Alaska",5634,0,0,0,0,0,0,0,0,0
+84002020,02020,Anchorage,Alaska,"Anchorage,Alask",288000,0,0,4,0,1,2,6,13,0
+84002050,02050,Bethel,Alaska,"Bethel, Alaska",18386,0,0,0,0,0,0,0,0,0
+84002060,02060,Bristol Bay,Alaska,"Bristol Bay, Alaska",836,0,0,0,0,0,0,0,0,0
+84002068,02068,Denali,Alaska,"Denali, Alaska",2097,0,0,0,0,0,0,0,0,0
+84002070,02070,Dillingham,Alaska,"Dillingham, Alaska",4916,0,0,0,0,0,0,0,0,0
+84002090,02090,Fairbanks North Star,Alaska,"Fairbanks North Star,Alask",96849,0,0,1,1,0,0,3,5,0
+84002100,02100,Haines,Alaska,"Haines, Alaska",2530,0,0,0,0,0,0,0,0,0
+84002105,02105,Hoonah-Angoon,Alaska,"Hoonah-Angoon, Alaska",2148,0,0,0,0,0,0,0,0,0
+84002110,02110,Juneau,Alaska,"Juneau, Alaska",31974,0,0,0,0,0,2,-1,1,0
+84002122,02122,Kenai Peninsula,Alaska,"Kenai Peninsula,Alask",58708,0,0,0,2,0,0,0,2,0
+84002130,02130,Ketchikan Gateway,Alaska,"Ketchikan Gateway, Alaska",13901,0,0,0,0,0,0,0,0,0
+84002150,02150,Kodiak Island,Alaska,"Kodiak Island, Alaska",12998,0,0,0,0,0,0,0,0,0
+84002158,02158,Kusilvak,Alaska,"Kusilvak, Alaska",8314,0,0,0,0,0,0,0,0,0
+84002164,02164,Lake and Peninsula,Alaska,"Lake and Peninsula, Alaska",1592,0,0,0,0,0,0,0,0,0
+84002170,02170,Matanuska-Susitna,Alaska,"Matanuska-Susitna,Alask",108317,0,0,0,1,0,0,1,2,0
+84002180,02180,Nome,Alaska,"Nome, Alaska",10004,0,0,0,0,0,0,0,0,0
+84002185,02185,North Slope,Alaska,"North Slope, Alaska",9832,0,0,0,0,0,0,0,0,0
+84002188,02188,Northwest Arctic,Alaska,"Northwest Arctic, Alaska",7621,0,0,0,0,0,0,0,0,0
+84002195,02195,Petersburg,Alaska,"Petersburg, Alaska",3266,0,0,0,1,0,0,0,1,0
+84002198,02198,Prince of Wales-Hyder,Alaska,"Prince of Wales-Hyder, Alaska",6203,0,0,0,0,0,0,0,0,0
+84002220,02220,Sitka,Alaska,"Sitka, Alaska",8493,0,0,0,0,0,0,0,0,0
+84002230,02230,Skagway,Alaska,"Skagway, Alaska",1183,0,0,0,0,0,0,0,0,0
+84002240,02240,Southeast Fairbanks,Alaska,"Southeast Fairbanks, Alaska",6893,0,0,0,0,0,0,0,0,0
+84002261,02261,Valdez-Cordova,Alaska,"Valdez-Cordova, Alaska",9202,0,0,0,0,0,0,0,0,0
+84002275,02275,Wrangell,Alaska,"Wrangell, Alaska",2502,0,0,0,0,0,0,0,0,0
+84002282,02282,Yakutat,Alaska,"Yakutat, Alaska",579,0,0,0,0,0,0,0,0,0
+84002290,02290,Yukon-Koyukuk,Alaska,"Yukon-Koyukuk, Alaska",5230,0,0,0,0,0,0,1,1,0
+84004001,04001,Apache,Arizona,"Apache, Arizona",71887,0,0,4,8,37,51,36,136,0
+84004003,04003,Cochise,Arizona,"Cochise, Arizona",125922,0,0,0,1,3,16,30,50,0
+84004005,04005,Coconino,Arizona,"Coconino, Arizona",143476,0,0,24,34,27,12,20,117,0
+84004007,04007,Gila,Arizona,"Gila, Arizona",54018,0,0,0,1,2,6,20,29,0
+84004009,04009,Graham,Arizona,"Graham, Arizona",38837,0,0,0,0,1,0,10,11,0
+84004011,04011,Greenlee,Arizona,"Greenlee, Arizona",9498,0,0,0,0,1,0,0,1,0
+84004012,04012,La Paz,Arizona,"La Paz, Arizona",21108,0,0,0,1,0,6,3,10,0
+84004013,04013,Maricopa,Arizona,"Maricopa, Arizona",4485414,0,0,60,221,238,440,1194,2153,0
+84004015,04015,Mohave,Arizona,"Mohave, Arizona",212181,0,0,0,26,33,35,63,157,0
+84004017,04017,Navajo,Arizona,"Navajo, Arizona",110924,0,0,10,32,33,60,57,192,0
+84004019,04019,Pima,Arizona,"Pima, Arizona",1047279,0,0,29,115,72,86,163,465,0
+84004021,04021,Pinal,Arizona,"Pinal, Arizona",462789,0,0,0,20,22,39,61,142,0
+84004023,04023,Santa Cruz,Arizona,"Santa Cruz, Arizona",46498,0,0,0,0,4,23,23,50,0
+84004025,04025,Yavapai,Arizona,"Yavapai, Arizona",235099,0,0,1,3,2,5,53,64,0
+84004027,04027,Yuma,Arizona,"Yuma, Arizona",213787,0,0,0,4,30,84,149,267,0
+84005001,05001,Arkansas,Arkansas,"Arkansas, Arkansas",17486,0,0,0,0,0,0,1,1,0
+84005003,05003,Ashley,Arkansas,"Ashley, Arkansas",19657,0,0,0,0,0,2,2,4,0
+84005005,05005,Baxter,Arkansas,"Baxter, Arkansas",41932,0,0,0,0,0,0,0,0,0
+84005007,05007,Benton,Arkansas,"Benton, Arkansas",279141,0,0,0,0,5,16,19,40,0
+84005009,05009,Boone,Arkansas,"Boone, Arkansas",37432,0,0,0,0,0,1,0,1,0
+84005011,05011,Bradley,Arkansas,"Bradley, Arkansas",10763,0,0,0,1,0,1,1,3,0
+84005013,05013,Calhoun,Arkansas,"Calhoun, Arkansas",5189,0,0,0,0,0,0,0,0,0
+84005015,05015,Carroll,Arkansas,"Carroll, Arkansas",28380,0,0,0,0,1,4,2,7,0
+84005017,05017,Chicot,Arkansas,"Chicot, Arkansas",10118,0,0,0,0,0,3,4,7,0
+84005019,05019,Clark,Arkansas,"Clark, Arkansas",22320,0,0,0,0,0,0,1,1,0
+84005021,05021,Clay,Arkansas,"Clay, Arkansas",14551,0,0,0,0,0,3,1,4,0
+84005023,05023,Cleburne,Arkansas,"Cleburne, Arkansas",24919,0,0,4,0,0,0,1,5,0
+84005025,05025,Cleveland,Arkansas,"Cleveland, Arkansas",7956,0,0,0,0,0,0,2,2,0
+84005027,05027,Columbia,Arkansas,"Columbia, Arkansas",23457,0,0,0,2,0,2,3,7,0
+84005029,05029,Conway,Arkansas,"Conway, Arkansas",20846,0,0,1,0,0,2,0,3,0
+84005031,05031,Craighead,Arkansas,"Craighead, Arkansas",110332,0,0,0,0,1,6,5,12,0
+84005033,05033,Crawford,Arkansas,"Crawford, Arkansas",63257,0,0,0,0,0,1,2,3,0
+84005035,05035,Crittenden,Arkansas,"Crittenden, Arkansas",47955,0,0,2,5,2,4,7,20,0
+84005037,05037,Cross,Arkansas,"Cross, Arkansas",16419,0,0,0,0,0,1,1,2,0
+84005039,05039,Dallas,Arkansas,"Dallas, Arkansas",7009,0,0,0,0,0,0,0,0,0
+84005041,05041,Desha,Arkansas,"Desha, Arkansas",11361,0,0,0,0,0,1,1,2,0
+84005043,05043,Drew,Arkansas,"Drew, Arkansas",18219,0,0,1,0,0,1,1,3,0
+84005045,05045,Faulkner,Arkansas,"Faulkner, Arkansas",126007,0,0,2,1,0,0,2,5,0
+84005047,05047,Franklin,Arkansas,"Franklin, Arkansas",17715,0,0,0,0,0,1,1,2,0
+84005049,05049,Fulton,Arkansas,"Fulton, Arkansas",12477,0,0,0,0,0,0,0,0,0
+84005051,05051,Garland,Arkansas,"Garland, Arkansas",99386,0,0,0,1,0,1,6,8,0
+84005053,05053,Grant,Arkansas,"Grant, Arkansas",18265,0,0,0,0,0,0,0,0,0
+84005055,05055,Greene,Arkansas,"Greene, Arkansas",45325,0,0,0,0,0,0,1,1,0
+84005057,05057,Hempstead,Arkansas,"Hempstead, Arkansas",21532,0,0,1,0,0,0,1,2,0
+84005059,05059,Hot Spring,Arkansas,"Hot Spring, Arkansas",33771,0,0,0,0,0,1,9,10,0
+84005061,05061,Howard,Arkansas,"Howard, Arkansas",13202,0,0,0,0,0,1,1,2,0
+84005063,05063,Independence,Arkansas,"Independence, Arkansas",37825,0,0,0,0,0,0,1,1,0
+84005065,05065,Izard,Arkansas,"Izard, Arkansas",13629,0,0,0,0,1,0,0,1,0
+84005067,05067,Jackson,Arkansas,"Jackson, Arkansas",16719,0,0,0,0,0,0,1,1,0
+84005069,05069,Jefferson,Arkansas,"Jefferson, Arkansas",66824,0,0,6,13,9,0,11,39,0
+84005071,05071,Johnson,Arkansas,"Johnson, Arkansas",26578,0,0,0,0,0,0,0,0,0
+84005073,05073,Lafayette,Arkansas,"Lafayette, Arkansas",6624,0,0,0,1,0,1,0,2,0
+84005075,05075,Lawrence,Arkansas,"Lawrence, Arkansas",16406,0,0,1,3,5,0,1,10,0
+84005077,05077,Lee,Arkansas,"Lee, Arkansas",8857,0,0,1,0,0,2,4,7,0
+84005079,05079,Lincoln,Arkansas,"Lincoln, Arkansas",13024,0,0,0,7,4,0,0,11,0
+84005081,05081,Little River,Arkansas,"Little River, Arkansas",12259,0,0,0,0,0,0,1,1,0
+84005083,05083,Logan,Arkansas,"Logan, Arkansas",21466,0,0,0,0,0,0,1,1,0
+84005085,05085,Lonoke,Arkansas,"Lonoke, Arkansas",73309,0,0,0,0,0,1,1,2,0
+84005087,05087,Madison,Arkansas,"Madison, Arkansas",16576,0,0,0,0,0,0,1,1,0
+84005089,05089,Marion,Arkansas,"Marion, Arkansas",16694,0,0,0,0,0,0,0,0,0
+84005091,05091,Miller,Arkansas,"Miller, Arkansas",43257,0,0,0,1,0,1,2,4,0
+84005093,05093,Mississippi,Arkansas,"Mississippi, Arkansas",40651,0,0,0,0,2,1,8,11,0
+84005095,05095,Monroe,Arkansas,"Monroe, Arkansas",6701,0,0,0,0,0,0,0,0,0
+84005097,05097,Montgomery,Arkansas,"Montgomery, Arkansas",8986,0,0,0,0,0,0,0,0,0
+84005099,05099,Nevada,Arkansas,"Nevada, Arkansas",8252,0,0,0,0,0,3,6,9,0
+84005101,05101,Newton,Arkansas,"Newton, Arkansas",7753,0,0,0,0,0,0,3,3,0
+84005103,05103,Ouachita,Arkansas,"Ouachita, Arkansas",23382,0,0,0,0,0,0,2,2,0
+84005105,05105,Perry,Arkansas,"Perry, Arkansas",10455,0,0,0,0,0,0,0,0,0
+84005107,05107,Phillips,Arkansas,"Phillips, Arkansas",17782,0,0,1,0,0,4,2,7,0
+84005109,05109,Pike,Arkansas,"Pike, Arkansas",10718,0,0,0,0,0,0,1,1,0
+84005111,05111,Poinsett,Arkansas,"Poinsett, Arkansas",23528,0,0,0,2,0,1,0,3,0
+84005113,05113,Polk,Arkansas,"Polk, Arkansas",19964,0,0,0,0,0,0,1,1,0
+84005115,05115,Pope,Arkansas,"Pope, Arkansas",64072,0,0,0,0,2,2,6,10,0
+84005117,05117,Prairie,Arkansas,"Prairie, Arkansas",8062,0,0,0,0,0,0,0,0,0
+84005119,05119,Pulaski,Arkansas,"Pulaski, Arkansas",391911,0,0,10,13,18,21,17,79,0
+84005121,05121,Randolph,Arkansas,"Randolph, Arkansas",17958,0,0,0,0,0,1,2,3,0
+84005123,05123,St. Francis,Arkansas,"St. Francis, Arkansas",24994,0,0,0,0,1,2,0,3,0
+84005125,05125,Saline,Arkansas,"Saline, Arkansas",122437,0,0,1,0,1,1,3,6,0
+84005127,05127,Scott,Arkansas,"Scott, Arkansas",10281,0,0,0,0,0,0,0,0,0
+84005129,05129,Searcy,Arkansas,"Searcy, Arkansas",7881,0,0,0,0,0,0,0,0,0
+84005131,05131,Sebastian,Arkansas,"Sebastian, Arkansas",127827,0,0,0,0,2,5,8,15,0
+84005133,05133,Sevier,Arkansas,"Sevier, Arkansas",17007,0,0,0,1,1,7,1,10,0
+84005135,05135,Sharp,Arkansas,"Sharp, Arkansas",17442,0,0,0,2,1,2,0,5,0
+84005137,05137,Stone,Arkansas,"Stone, Arkansas",12506,0,0,0,0,0,1,0,1,0
+84005139,05139,Union,Arkansas,"Union, Arkansas",38682,0,0,0,4,7,2,4,17,0
+84005141,05141,Van Buren,Arkansas,"Van Buren, Arkansas",16545,0,0,2,0,0,0,0,2,0
+84005143,05143,Washington,Arkansas,"Washington, Arkansas",239187,0,0,0,5,4,26,13,48,0
+84005145,05145,White,Arkansas,"White, Arkansas",78753,0,0,0,1,0,1,0,2,0
+84005147,05147,Woodruff,Arkansas,"Woodruff, Arkansas",6320,0,0,0,0,0,0,0,0,0
+84005149,05149,Yell,Arkansas,"Yell, Arkansas",21341,0,0,0,1,1,3,9,14,0
+84006001,06001,Alameda,California,"Alameda, California",1671329,0,0,36,40,29,37,50,192,0
+84006003,06003,Alpine,California,"Alpine, California",1129,0,0,0,0,0,0,0,0,0
+84006005,06005,Amador,California,"Amador, California",39752,0,0,0,0,0,0,0,0,0
+84006007,06007,Butte,California,"Butte, California",219186,0,0,0,0,1,3,4,8,0
+84006009,06009,Calaveras,California,"Calaveras, California",45905,0,0,0,0,0,0,1,1,0
+84006011,06011,Colusa,California,"Colusa, California",21547,0,0,0,0,0,0,4,4,0
+84006013,06013,Contra Costa,California,"Contra Costa, California",1153526,0,0,14,19,10,43,45,131,0
+84006015,06015,Del Norte,California,"Del Norte, California",27812,0,0,0,0,0,0,0,0,0
+84006017,06017,El Dorado,California,"El Dorado, California",192843,0,0,0,0,0,0,1,1,0
+84006019,06019,Fresno,California,"Fresno, California",999101,0,0,7,3,39,35,54,138,0
+84006021,06021,Glenn,California,"Glenn, California",28393,0,0,0,0,0,0,1,1,0
+84006023,06023,Humboldt,California,"Humboldt, California",135558,0,0,0,0,4,0,0,4,0
+84006025,06025,Imperial,California,"Imperial, California",181215,0,0,3,11,27,84,107,232,0
+84006027,06027,Inyo,California,"Inyo, California",18039,0,0,0,1,0,0,0,1,0
+84006029,06029,Kern,California,"Kern, California",900202,0,0,3,14,34,36,64,151,0
+84006031,06031,Kings,California,"Kings, California",152940,0,0,1,0,5,32,18,56,0
+84006033,06033,Lake,California,"Lake, California",64386,0,0,0,0,0,1,0,1,0
+84006035,06035,Lassen,California,"Lassen, California",30573,0,0,0,0,0,0,0,0,0
+84006037,06037,Los Angeles,California,"Los Angeles, California",10039107,0,1,404,1255,1108,875,1117,4760,0
+84006039,06039,Madera,California,"Madera, California",157327,0,0,2,0,1,5,24,32,0
+84006041,06041,Marin,California,"Marin, California",258826,0,0,10,4,3,9,50,76,0
+84006043,06043,Mariposa,California,"Mariposa, California",17203,0,0,0,0,1,0,1,2,0
+84006045,06045,Mendocino,California,"Mendocino, California",86749,0,0,0,0,0,0,9,9,0
+84006047,06047,Merced,California,"Merced, California",277680,0,0,3,1,3,4,40,51,0
+84006049,06049,Modoc,California,"Modoc, California",8841,0,0,0,0,0,0,0,0,0
+84006051,06051,Mono,California,"Mono, California",14444,0,0,1,0,0,0,0,1,0
+84006053,06053,Monterey,California,"Monterey, California",434061,0,0,3,3,5,6,17,34,0
+84006055,06055,Napa,California,"Napa, California",137744,0,0,2,1,0,1,5,9,0
+84006057,06057,Nevada,California,"Nevada, California",99755,0,0,1,0,0,0,0,1,0
+84006059,06059,Orange,California,"Orange, California",3175692,0,0,22,58,118,178,277,653,0
+84006061,06061,Placer,California,"Placer, California",398329,0,1,6,1,1,2,7,18,0
+84006063,06063,Plumas,California,"Plumas, California",18807,0,0,0,0,0,0,0,0,0
+84006065,06065,Riverside,California,"Riverside, California",2470546,0,3,47,175,147,143,223,738,0
+84006067,06067,Sacramento,California,"Sacramento, California",1552058,0,2,30,19,11,16,70,148,0
+84006069,06069,San Benito,California,"San Benito, California",62808,0,0,2,0,0,0,2,4,0
+84006071,06071,San Bernardino,California,"San Bernardino, California",2180085,0,0,31,107,87,68,184,477,0
+84006073,06073,San Diego,California,"San Diego, California",3338330,0,0,53,137,115,101,162,568,0
+84006075,06075,San Francisco,California,"San Francisco, California",881549,0,0,17,18,9,6,11,61,0
+84006077,06077,San Joaquin,California,"San Joaquin, California",762148,0,2,15,14,9,21,119,180,0
+84006079,06079,San Luis Obispo,California,"San Luis Obispo, California",283111,0,0,1,0,0,2,13,16,0
+84006081,06081,San Mateo,California,"San Mateo, California",766573,0,1,20,44,28,18,9,120,0
+84006083,06083,Santa Barbara,California,"Santa Barbara, California",446499,0,0,2,9,5,14,33,63,0
+84006085,06085,Santa Clara,California,"Santa Clara, California",1927852,0,6,59,65,16,19,27,192,0
+84006087,06087,Santa Cruz,California,"Santa Cruz, California",273213,0,0,2,0,0,1,1,4,0
+84006089,06089,Shasta,California,"Shasta, California",180080,0,0,3,1,0,1,4,9,0
+84006091,06091,Sierra,California,"Sierra, California",3005,0,0,0,0,0,0,0,0,0
+84006093,06093,Siskiyou,California,"Siskiyou, California",43539,0,0,0,0,0,0,0,0,0
+84006095,06095,Solano,California,"Solano, California",447643,0,0,2,9,12,4,11,38,0
+84006097,06097,Sonoma,California,"Sonoma, California",494336,0,0,2,2,0,10,25,39,0
+84006099,06099,Stanislaus,California,"Stanislaus, California",550660,0,0,4,18,11,17,85,135,0
+84006101,06101,Sutter,California,"Sutter, California",96971,0,0,2,0,0,2,2,6,0
+84006103,06103,Tehama,California,"Tehama, California",65084,0,0,1,0,0,0,0,1,0
+84006105,06105,Trinity,California,"Trinity, California",12285,0,0,0,0,0,0,0,0,0
+84006107,06107,Tulare,California,"Tulare, California",466195,0,0,15,39,42,52,45,193,0
+84006109,06109,Tuolumne,California,"Tuolumne, California",54478,0,0,0,0,0,0,2,2,0
+84006111,06111,Ventura,California,"Ventura, California",846006,0,0,13,11,14,12,27,77,0
+84006113,06113,Yolo,California,"Yolo, California",220500,0,0,4,18,2,4,14,42,0
+84006115,06115,Yuba,California,"Yuba, California",78668,0,0,1,0,0,2,1,4,0
+84008001,08001,Adams,Colorado,"Adams, Colorado",517421,0,0,28,58,57,13,17,173,0
+84008003,08003,Alamosa,Colorado,"Alamosa, Colorado",16233,0,0,2,0,0,4,3,9,0
+84008005,08005,Arapahoe,Colorado,"Arapahoe, Colorado",656590,0,0,52,148,131,16,17,364,0
+84008007,08007,Archuleta,Colorado,"Archuleta, Colorado",14029,0,0,0,0,0,0,0,0,0
+84008009,08009,Baca,Colorado,"Baca, Colorado",3581,0,0,0,0,0,0,0,0,0
+84008011,08011,Bent,Colorado,"Bent, Colorado",5577,0,0,0,0,0,0,0,0,0
+84008013,08013,Boulder,Colorado,"Boulder, Colorado",326196,0,0,15,42,10,5,3,75,0
+84008014,08014,Broomfield,Colorado,"Broomfield, Colorado",70465,0,0,2,18,8,2,2,32,0
+84008015,08015,Chaffee,Colorado,"Chaffee, Colorado",20356,0,0,4,12,4,-1,0,19,0
+84008017,08017,Cheyenne,Colorado,"Cheyenne, Colorado",1831,0,0,0,0,0,0,0,0,0
+84008019,08019,Clear Creek,Colorado,"Clear Creek, Colorado",9700,0,0,0,1,0,0,0,1,0
+84008021,08021,Conejos,Colorado,"Conejos, Colorado",8205,0,0,0,0,0,0,0,0,0
+84008023,08023,Costilla,Colorado,"Costilla, Colorado",3887,0,0,0,0,0,0,0,0,0
+84008025,08025,Crowley,Colorado,"Crowley, Colorado",6061,0,0,1,0,0,0,0,1,0
+84008027,08027,Custer,Colorado,"Custer, Colorado",5068,0,0,0,0,0,0,0,0,0
+84008029,08029,Delta,Colorado,"Delta, Colorado",31162,0,0,1,0,0,0,0,1,0
+84008031,08031,Denver,Colorado,"Denver, Colorado",727211,0,0,61,172,124,30,25,412,0
+84008033,08033,Dolores,Colorado,"Dolores, Colorado",2055,0,0,0,0,0,0,0,0,0
+84008035,08035,Douglas,Colorado,"Douglas, Colorado",351154,0,0,15,15,17,5,7,59,0
+84008037,08037,Eagle,Colorado,"Eagle, Colorado",55127,0,0,6,2,0,0,1,9,0
+84008039,08039,Elbert,Colorado,"Elbert, Colorado",26729,0,0,1,1,0,0,0,2,0
+84008041,08041,El Paso,Colorado,"El Paso, Colorado",720403,0,2,41,38,19,9,28,137,0
+84008043,08043,Fremont,Colorado,"Fremont, Colorado",47839,0,0,0,0,0,0,0,0,0
+84008045,08045,Garfield,Colorado,"Garfield, Colorado",60061,0,0,2,0,0,1,1,4,0
+84008047,08047,Gilpin,Colorado,"Gilpin, Colorado",6243,0,0,0,0,0,0,0,0,0
+84008049,08049,Grand,Colorado,"Grand, Colorado",15734,0,0,0,0,0,1,0,1,0
+84008051,08051,Gunnison,Colorado,"Gunnison, Colorado",17462,0,0,3,3,0,0,0,6,0
+84008053,08053,Hinsdale,Colorado,"Hinsdale, Colorado",820,0,0,0,0,0,0,0,0,0
+84008055,08055,Huerfano,Colorado,"Huerfano, Colorado",6897,0,0,0,0,0,1,0,1,0
+84008057,08057,Jackson,Colorado,"Jackson, Colorado",1392,0,0,0,0,0,0,0,0,0
+84008059,08059,Jefferson,Colorado,"Jefferson, Colorado",582881,0,0,32,73,84,25,13,227,0
+84008061,08061,Kiowa,Colorado,"Kiowa, Colorado",1406,0,0,0,0,0,0,0,0,0
+84008063,08063,Kit Carson,Colorado,"Kit Carson, Colorado",7097,0,0,1,1,1,0,0,3,0
+84008065,08065,Lake,Colorado,"Lake, Colorado",8127,0,0,0,0,0,0,0,0,0
+84008067,08067,La Plata,Colorado,"La Plata, Colorado",56221,0,0,0,1,0,0,1,2,0
+84008069,08069,Larimer,Colorado,"Larimer, Colorado",356899,0,0,9,10,9,2,5,35,0
+84008071,08071,Las Animas,Colorado,"Las Animas, Colorado",14506,0,0,0,0,0,0,0,0,0
+84008073,08073,Lincoln,Colorado,"Lincoln, Colorado",5701,0,0,0,0,0,0,0,0,0
+84008075,08075,Logan,Colorado,"Logan, Colorado",22409,0,0,0,3,2,0,0,5,0
+84008077,08077,Mesa,Colorado,"Mesa, Colorado",154210,0,0,0,0,0,0,3,3,0
+84008079,08079,Mineral,Colorado,"Mineral, Colorado",769,0,0,0,0,0,0,0,0,0
+84008081,08081,Moffat,Colorado,"Moffat, Colorado",13283,0,0,0,0,0,0,1,1,0
+84008083,08083,Montezuma,Colorado,"Montezuma, Colorado",26183,0,0,2,1,0,0,1,4,0
+84008085,08085,Montrose,Colorado,"Montrose, Colorado",42758,0,0,6,5,1,0,1,13,0
+84008087,08087,Morgan,Colorado,"Morgan, Colorado",29068,0,0,0,24,21,1,0,46,0
+84008089,08089,Otero,Colorado,"Otero, Colorado",18278,0,0,0,1,0,0,5,6,0
+84008091,08091,Ouray,Colorado,"Ouray, Colorado",4952,0,0,1,0,0,0,0,1,0
+84008093,08093,Park,Colorado,"Park, Colorado",18845,0,0,0,0,0,0,1,1,0
+84008095,08095,Phillips,Colorado,"Phillips, Colorado",4265,0,0,0,0,0,0,0,0,0
+84008097,08097,Pitkin,Colorado,"Pitkin, Colorado",17767,0,0,2,0,0,0,0,2,0
+84008099,08099,Prowers,Colorado,"Prowers, Colorado",12172,0,0,0,0,0,0,0,0,0
+84008101,08101,Pueblo,Colorado,"Pueblo, Colorado",168424,0,0,4,8,7,11,4,34,0
+84008103,08103,Rio Blanco,Colorado,"Rio Blanco, Colorado",6324,0,0,0,0,0,0,0,0,0
+84008105,08105,Rio Grande,Colorado,"Rio Grande, Colorado",11267,0,0,0,0,0,2,0,2,0
+84008107,08107,Routt,Colorado,"Routt, Colorado",25638,0,0,0,6,0,0,0,6,0
+84008109,08109,Saguache,Colorado,"Saguache, Colorado",6824,0,0,0,0,2,0,0,2,0
+84008111,08111,San Juan,Colorado,"San Juan, Colorado",728,0,0,0,0,0,0,0,0,0
+84008113,08113,San Miguel,Colorado,"San Miguel, Colorado",8179,0,0,0,0,0,0,0,0,0
+84008115,08115,Sedgwick,Colorado,"Sedgwick, Colorado",2248,0,0,0,0,0,0,1,1,0
+84008117,08117,Summit,Colorado,"Summit, Colorado",31011,0,0,1,0,1,2,0,4,0
+84008119,08119,Teller,Colorado,"Teller, Colorado",25388,0,0,2,0,0,0,1,3,0
+84008121,08121,Washington,Colorado,"Washington, Colorado",4908,0,0,0,0,0,0,0,0,0
+84008123,08123,Weld,Colorado,"Weld, Colorado",324492,0,1,56,62,16,3,4,142,0
+84008125,08125,Yuma,Colorado,"Yuma, Colorado",10019,0,0,0,0,0,0,0,0,0
+84009001,09001,Fairfield,Connecticut,"Fairfield, Connecticut",943332,0,1,364,703,253,57,30,1408,0
+84009003,09003,Hartford,Connecticut,"Hartford, Connecticut",891720,0,0,213,750,340,79,30,1412,0
+84009005,09005,Litchfield,Connecticut,"Litchfield, Connecticut",180333,0,0,35,75,24,3,1,138,0
+84009007,09007,Middlesex,Connecticut,"Middlesex, Connecticut",162436,0,0,28,88,48,23,4,191,0
+84009009,09009,New Haven,Connecticut,"New Haven, Connecticut",854757,0,0,195,550,279,55,25,1104,0
+84009011,09011,New London,Connecticut,"New London, Connecticut",265206,0,0,7,53,37,5,1,103,0
+84009013,09013,Tolland,Connecticut,"Tolland, Connecticut",150721,0,0,22,27,12,3,2,66,0
+84009015,09015,Windham,Connecticut,"Windham, Connecticut",116782,0,0,1,8,5,0,1,15,0
 84010001,10001,Kent,Delaware,"Kent, Delaware",180786,0,0,7,38,33,14,15,107,0
 84010003,10003,New Castle,Delaware,"New Castle, Delaware",558753,0,0,20,82,84,62,41,289,0
 84010005,10005,Sussex,Delaware,"Sussex, Delaware",234225,0,0,16,83,50,26,16,191,0
@@ -1857,7 +1857,7 @@ UID,FIPS,County,State,Combined_Key,2019 Population Estimate,2/19/20,3/18/20,4/15
 84036055,36055,Monroe,New York,"Monroe, New York",741770,0,1,55,100,80,37,4,277,0
 84036057,36057,Montgomery,New York,"Montgomery, New York",49221,0,0,1,0,3,0,0,4,0
 84036059,36059,Nassau,New York,"Nassau, New York",1356924,0,1,1056,947,147,37,6,2194,0
-84036061,36061,New York,New York,"New York City, New York",1628706,0,54,13182,7862,1558,568,332,23556,0
+84036061,36061,New York,New York,"New York City, New York",8336817,0,54,13182,7862,1558,568,332,23556,0
 84036063,36063,Niagara,New York,"Niagara, New York",209281,0,0,9,35,26,20,8,98,0
 84036065,36065,Oneida,New York,"Oneida, New York",228671,0,0,4,19,38,37,14,112,0
 84036067,36067,Onondaga,New York,"Onondaga, New York",460528,0,0,12,70,69,37,12,200,0
@@ -3141,3 +3141,4 @@ UID,FIPS,County,State,Combined_Key,2019 Population Estimate,2/19/20,3/18/20,4/15
 84056041,56041,Uinta,Wyoming,"Uinta, Wyoming",20226,0,0,0,0,0,0,0,0,0
 84056043,56043,Washakie,Wyoming,"Washakie, Wyoming",7805,0,0,0,0,0,0,0,0,0
 84056045,56045,Weston,Wyoming,"Weston, Wyoming",6927,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,
