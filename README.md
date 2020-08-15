@@ -28,6 +28,8 @@ TODO (see OpportunityInsights & John Hopkins repo's for inspiration)
 
 #### Coronavirus Data
 
+TO DO: Generate rates for TOTAL confirmed and deaths
+
 County-level time series data on US coronavirus infections and deaths from January 21 through August 4, 2020 were acquired from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. View their Github repository for more in-depth documentation at https://github.com/CSSEGISandData/COVID-19. 
 
 **Important Note:** Due to the nature of our analysis, data is up to date through August 4th.
@@ -46,6 +48,10 @@ County-level, monthly unemployment data through MAY/JUNE 2020 was acquired from 
 
 #### Political Data
 TIVAS, TODO
+
+#### State Lockdowns Data
+
+School closings: https://www.edweek.org/ew/section/multimedia/map-coronavirus-and-school-closures.html
 
 
 #### Sources of Inspiration/Other
