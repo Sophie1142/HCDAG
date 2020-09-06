@@ -1,0 +1,102 @@
+---
+title: "Data Cleaning"
+author: "Vivian Zhang"
+date: "8/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(janitor)
+library(broom)
+library(readxl)
+library(tidyverse)
+
+```
+
+```{r FIPS}
+
+merge_fips <- read_csv("unemployment_data/AllUnemploymentRatesFromJan20.csv") %>%
+  clean_names() %>%
+  select(2,3,6)
+
+```
+
+
+```{r employment}
+
+education <- read_excel("viv_data/original_docs/Education.xls", skip = 4) %>%
+  clean_names()
+
+education <- education %>%
+  filter(area_name != "United States") %>%
+  select(c(2,3,44,45,46,47)) %>%
+  rename(county = area_name) %>%
+  separate(county, c("county", "Junk"), " ") %>%
+  na.omit() %>%
+  select(-Junk) %>%
+  left_join(merge_fips, by ="county")
+
+write.csv(education,"education_attainment.csv")
+
+```
+
+```{r median household income}
+
+median_income <- read_csv("viv_data/original_docs/median_income.csv", skip = 1) %>%
+  clean_names()
+
+median_income <- median_income %>%
+  separate(geographic_area_name, c("county", "State"), ",") %>%
+  select(c(2,3,41,42,43,44)) %>%
+  separate(county, c("county", "Junk"), " ") %>%
+  na.omit() %>%
+  select(-Junk) %>%
+  left_join(merge_fips, by ="county")
+
+write.csv(median_income,"income.csv")
+
+```
+
+```{r racial and ethnic data}
+
+race_data <- read_csv("viv_data/original_docs/race_3.csv", skip = 1) %>%
+  clean_names()
+
+race_data <- race_data %>%
+  separate(geographic_area_name, c("county", "State"), ",") %>%
+  select(2,3,estimate_race_total_population, starts_with("percent_estimate"), -1) %>%
+  select(-c(4:8)) %>%
+  separate(county, c("county", "Junk"), " ") %>%
+  na.omit() %>%
+  select(-Junk) %>%
+  left_join(merge_fips, by ="county")
+
+write.csv(race_data,"racedata.csv")
+
+```
+
+```{r internet access}
+
+internet <- read_excel("viv_data/original_docs/internet.xls", skip = 4)
+
+internet <- internet %>%
+  head(61) %>%
+  filter(`1` != "United States ...................................") %>%
+  na.omit() %>%
+  rename(county = `1`, number_of_households = `2`, 
+         number_of_households_with_computer = `3`, 
+         percent_households_with_computer = `4`,
+         number_households_with_internet = `5`,
+         percent_households_with_internet = `6`) %>%
+  separate(county, c("county", "Junk"), " ") %>%
+  na.omit() %>%
+  select(-Junk) %>%
+  left_join(merge_fips, by ="county")
+
+write.csv(internet,"internet.csv")
+
+```
+
+
