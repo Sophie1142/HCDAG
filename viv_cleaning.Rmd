@@ -36,7 +36,7 @@ education <- education %>%
   separate(county, c("county", "Junk"), " ") %>%
   na.omit() %>%
   select(-Junk) %>%
-  left_join(merge_fips, by ="county")
+  semi_join(merge_fips, by ="county")
 
 write.csv(education,"education_attainment.csv")
 
@@ -53,7 +53,7 @@ median_income <- median_income %>%
   separate(county, c("county", "Junk"), " ") %>%
   na.omit() %>%
   select(-Junk) %>%
-  left_join(merge_fips, by ="county")
+  semi_join(merge_fips, by ="county")
 
 write.csv(median_income,"income.csv")
 
@@ -71,7 +71,16 @@ race_data <- race_data %>%
   separate(county, c("county", "Junk"), " ") %>%
   na.omit() %>%
   select(-Junk) %>%
-  left_join(merge_fips, by ="county")
+  semi_join(merge_fips, by ="county")
+
+race_data <- race_data %>%
+  select(1,2,31,32,33,34,35,38) %>%
+  rename(percent_white = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_white,
+         percent_black = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_black_or_african_american,
+         percent_indigenous = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_american_indian_and_alaska_native,
+         percent_asian = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_asian,
+         percent_pacific_islander = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_native_hawaiian_and_other_pacific_islander,
+         percent_hispanic_latino = percent_estimate_hispanic_or_latino_and_race_total_population_hispanic_or_latino_of_any_race)
 
 write.csv(race_data,"racedata.csv")
 
@@ -93,7 +102,7 @@ internet <- internet %>%
   separate(county, c("county", "Junk"), " ") %>%
   na.omit() %>%
   select(-Junk) %>%
-  left_join(merge_fips, by ="county")
+  semi_join(merge_fips, by ="county")
 
 write.csv(internet,"internet.csv")
 
