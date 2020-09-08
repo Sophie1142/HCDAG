@@ -97,7 +97,7 @@ internet <- internet %>%
   arrange(state, county) %>%
   full_join(merge_fips, by ="county")
 
-write.csv(internet,"internet.csv")
+write.csv(internet,"internet_good.csv")
 
 ```
 
