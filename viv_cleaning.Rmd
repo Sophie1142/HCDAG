@@ -36,7 +36,7 @@ education <- education %>%
   separate(county, c("county", "junk"), " C") %>%
   na.omit() %>%
   select(-junk) %>%
-  semi_join(merge_fips, by ="county")
+  full_join(merge_fips, by ="county")
 
 write.csv(education,"education_attainment.csv")
 
@@ -53,7 +53,7 @@ median_income <- median_income %>%
   separate(county, c("county", "Junk"), " C") %>%
   na.omit() %>%
   select(-Junk) %>%
-  semi_join(merge_fips, by ="county")
+  full_join(merge_fips, by ="county")
 
 write.csv(median_income,"income.csv")
 
@@ -70,8 +70,7 @@ race_data <- race_data %>%
   select(-c(4:8)) %>%
   separate(county, c("county", "Junk"), " C") %>%
   na.omit() %>%
-  select(-Junk) %>%
-  semi_join(merge_fips, by ="county")
+  select(-Junk)
 
 race_data <- race_data %>%
   select(1,2,31,32,33,34,35,38) %>%
@@ -80,7 +79,8 @@ race_data <- race_data %>%
          percent_indigenous = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_american_indian_and_alaska_native,
          percent_asian = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_asian,
          percent_pacific_islander = percent_estimate_race_alone_or_in_combination_with_one_or_more_other_races_total_population_native_hawaiian_and_other_pacific_islander,
-         percent_hispanic_latino = percent_estimate_hispanic_or_latino_and_race_total_population_hispanic_or_latino_of_any_race)
+         percent_hispanic_latino = percent_estimate_hispanic_or_latino_and_race_total_population_hispanic_or_latino_of_any_race) %>%
+  full_join(merge_fips, by ="county")
 
 write.csv(race_data,"racedata.csv")
 
@@ -88,21 +88,14 @@ write.csv(race_data,"racedata.csv")
 
 ```{r internet access}
 
-internet <- read_excel("viv_data/original_docs/internet.xls", skip = 4)
+internet <- read_excel("viv_data/original_docs/broad_band.xlsx") %>%
+  clean_names()
 
 internet <- internet %>%
-  head(61) %>%
-  filter(`1` != "United States ...................................") %>%
-  na.omit() %>%
-  rename(county = `1`, number_of_households = `2`, 
-         number_of_households_with_computer = `3`, 
-         percent_households_with_computer = `4`,
-         number_households_with_internet = `5`,
-         percent_households_with_internet = `6`) %>%
-  separate(county, c("county", "Junk"), " C") %>%
-  na.omit() %>%
-  select(-Junk) %>%
-  semi_join(merge_fips, by ="county")
+  select(-1) %>%
+  group_by(state) %>%
+  arrange(state, county) %>%
+  full_join(merge_fips, by ="county")
 
 write.csv(internet,"internet.csv")
 
