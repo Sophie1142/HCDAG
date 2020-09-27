@@ -101,7 +101,7 @@ Excel workbook files containing original data downloaded from Johns Hopkins, as 
 
 County-level demographic and economic data (median household income, racial data etc) were acquired from the 2018 American Community Survey ([ACS](https://www.census.gov/programs-surveys/acs)) 5-Year Profile data.
 
-VIVIAN, TODO (if needed)
+Easier Source: https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html
 
 ## Unemployment Data
 
